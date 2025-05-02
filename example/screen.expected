@@ -26,14 +26,14 @@
 bamtools stats -in plugins/BAMStats/example//input.bam
 
 **********************************************
-Stats for BAM file(s):
+Stats for BAM file(s): 
 **********************************************
 
 Total reads:       10
-Mapped reads:      10   (100%)
-Forward strand:    2    (20%)
-Reverse strand:    8    (80%)
-Failed QC:         0    (0%)
-Duplicates:        0    (0%)
-Paired-end reads:  0    (0%)
+Mapped reads:      10	(100%)
+Forward strand:    2	(20%)
+Reverse strand:    8	(80%)
+Failed QC:         0	(0%)
+Duplicates:        0	(0%)
+Paired-end reads:  0	(0%)
 
